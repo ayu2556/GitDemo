@@ -29,6 +29,8 @@ public class Assignment {
 
 		driver.switchTo().window(parentId);
 		System.out.println(driver.findElement(By.tagName("h3")).getText());
+		
+		System.out.println("Ayush is good");
 
 		driver.close();
 
