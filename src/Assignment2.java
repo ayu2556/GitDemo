@@ -28,6 +28,10 @@ public class Assignment2 {
 //		String childId = it.next();
 //		driver.switchTo().window(childId);
 		System.out.println(driver.findElement(By.id("content")).getText());
+		
+		System.out.println("changes1");
+		System.out.println("changes2");
+
 
 //		driver.switchTo().window(parentId);
 //		System.out.println(driver.findElement(By.tagName("h3")).getText());
