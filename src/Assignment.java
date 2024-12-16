@@ -32,6 +32,9 @@ public class Assignment {
 		
 		System.out.println("Ayush is good");
 		
+		int i=1;
+		System.out.println(i+1);
+		
 
 		driver.close();
 
